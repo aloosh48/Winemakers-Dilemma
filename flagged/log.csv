@@ -1,0 +1,3 @@
+Probability of Storm,Probability of Botrytis if Storm,Probability of No Sugar Increase,Probability of Typical Sugar Increase,Probability of High Sugar Increase,output 0,output 1,flag,username,timestamp
+0.5,0.1,0.6,0.3,0.1,Expected Value (E-value) of the Decision: $917160.0,Recommended Course of Action: Harvest Now,,,2024-04-23 13:35:08.691308
+0.5,0.1,0.6,0.3,0.1,Expected Value (E-value) of the Decision: $917160.0,Recommended Course of Action: Harvest Now,,,2024-04-23 13:35:10.780976
